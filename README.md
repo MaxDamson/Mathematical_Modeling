@@ -15,7 +15,7 @@ Jupyter Notebook是一个开源的Web应用程序，允许用户创建和共享�
 在有Python的环境下，直接在终端输入以下命令即可：
 
 ```shell
-$ pip install jupyter
+pip install jupyter
 ```
 安装好后即可在Cursor或VSCode中打开'.ipynb'文件了
 
